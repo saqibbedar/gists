@@ -18,6 +18,8 @@
     export API_KEY="MY API KEY"         # export saves variable into environment variables
     ```
 
+    > Note: this will also be removed, to write it permanently you need to save variable into your terminal config file i.e., nano ~/.bashrc and paste your desired variable.
+
 3. View saved variables (local and global):
 
     In Bash, the `set` command is a built-in tool used to configure shell options and manage shell variables.
